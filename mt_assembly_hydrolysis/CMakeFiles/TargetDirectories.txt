@@ -1,0 +1,3 @@
+/home/klyuchnikov/Desktop/PROJECTS/MT/mt_assembly_hydrolysis/CMakeFiles/rebuild_cache.dir
+/home/klyuchnikov/Desktop/PROJECTS/MT/mt_assembly_hydrolysis/CMakeFiles/mt.dir
+/home/klyuchnikov/Desktop/PROJECTS/MT/mt_assembly_hydrolysis/CMakeFiles/edit_cache.dir
